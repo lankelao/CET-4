@@ -1,0 +1,29 @@
+species	n.物种	//-spec-看   看到很多，物种繁多
+bacteria	n.细菌	//bac想象成back(背后)te(特)ri(日,太阳)，背后没有太阳的地方容易滋生细菌
+humanity	n.人类,人性	//hunmankind   n.人类
+primitive	adj.原始的,落后的	//pri--pre(前面的)m(妹妹)itive(踢我)
+bug	n.虫子
+insect	n.昆虫	//里面in塞个它sect
+plant	n.植物,工厂v.栽种,播种
+bloom	n.花	//6100m美眉(朵花)
+blossom	n.花朵,花簇v.开花	//610个ss型的美眉(花)
+bud	n.芽,蕾	//不大，不就是芽了	//in bud 在发芽//nip...in the bud将...扼杀在摇篮之中;防患于未然
+bundle	n.捆,包,扎v.捆扎;把..打包	//巴豆需要吃一捆才管用
+straw	n.麦秆,稻草,吸管	//strawberry草莓  straw草,稻草可以当吸管用
+flock	n.群;一大群v.聚集,蜂拥	//lock锁，打开锁就都聚集了
+derive	n.起源	//rive想成river河  de弟弟沿着河走寻找起源，deprive掠夺    弟弟扑到河里掠夺物资
+evolve	v.(使)逐渐形成,进化,演化	//volve(旋转)---volvo(沃尔沃)车轮飞速旋转,e表示出去，evolve螺旋式上升(进化,发展)//involve 卷入   revolve重复旋转，即旋转
+formation	n.组成,形成,组成物,形成物	//form(形成),名词formation
+habitat	n.生活环境,栖息地	//habit习惯  at在，在哪比较习惯？栖息地
+inhabit	v.居住于,栖息于
+endanger	v.危害,危及	//en-使动前缀//encourage 鼓励//danger危险，使危险就是危害危及
+extinct	adj.已灭绝的,绝种的,不再存在的	//ex儿媳tin听ctCT机 绝种了
+serve	v.服务
+deseve	v.应当	//弟弟为我服务
+conserve   v.储藏	//为所有人服务应该先储藏食物
+preserve	v.保护,维护,保留;储存,保险	//pre提前	 提前服务
+reserve	v.预定,保留	//再次为你服务	
+protect	v.保护	//破坦克保护//protection n.保护//protective  adj.保护的
+prevent	v.阻止,阻碍,阻挠	//pre在前面   went走 ，在前面挡着你走
+
+
