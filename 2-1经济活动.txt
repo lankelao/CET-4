@@ -1,0 +1,24 @@
+economy	n.经济;节约	//谐音:依靠农民   经济支撑又节约
+secter	n.部门,领域,行业	//se表示分开，比如separate 分开；
+foundation	n.地基,基础;基金会;创立,创办	    //found  v.建立  建立da(大)的就是地基
+strategy	n.策略;战略	//st想成street街道，rat(老鼠)   对付老鼠需要策略
+revenue	n.财政收入,税收收入,收益	//re: return    收回来的就是收入
+tangible	n.有形的,实际的,可触摸的	//tang=tact=touch(触摸)    如contact接触,联系   con(所有)  所有都能触摸   intact完整的,未受损的     没有触摸到
+produce	n.产品v.生产,制造,繁育;出示,展现	//conduct  v.指挥,执掌     duct词根指挥    pro在..之前//reproduce v.再生产
+industry	n.工业,行业;勤奋,勤劳    //in在dus都市try尝试//industrial adj.工业的,产业的industrious adj.勤奋的
+manufacture      v.(用机器)大量生产,成批制造;n.工业品     //fact=fect做 如affect(af一再的+fect做)影响//infect传染感染  做到里面去了//defect 缺点缺陷   弟弟做事
+mould	v.(用机器)大量生产,成批制造;n.工业品
+output	n.产量v.输出      //input输入
+operate	v.运转,操作,经营,手术n.手术,业务,运作	//co表示一起   cooperate 合作
+invest	v.投资,投入	//in vest往西部投资//investigate调查,研究   i我gate门口，到西部投资现在门口调查研究
+circumstance      n.条件,环境,境况,命运	//环绕地站着，就是环境,命运
+challenge	n.挑战,质疑v.怀疑,考察
+barrier	n.障碍物,关卡,隔阂     //bar指酒吧,酒吧的门口门是栅栏门,木条做的,所以barrier就是障碍物//bargain n.便宜货v.讨价还价    用棍子得到不就是便宜货了
+regulate	v.控制,管理;调节	//阿姨故意上班迟到，必须控制管理一下//-reg-使..变直,变正   rectangle 矩形//
+accelerate	v.加速,加快	//ac  "一再地"  cele"赛了" rate"速度"  一再比赛加速//decelerate  减速
+arise	v.产生,出现	//rise v.上升 raise v.升起,举起  rouse v.引起,唤醒=arouse
+ascend	v.上升,升高,登高     //decend  下降   desendant子孙  precede领先  ancestor祖先 exceed超过,胜过
+elevate	v.提拔,提升,使情绪高昂 	//elevator  电梯
+
+
+
